@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Industrial Engineering, Politecnico di Torino, 2016
+* M.Sc. in Industrial Engineering and Management, Politecnco di Torino, 2018
 
 Work experience
 ======
