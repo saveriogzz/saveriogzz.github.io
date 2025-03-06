@@ -1,0 +1,17 @@
+{
+  "name": "saveriogzz.github.io",
+  "version": "1.0.0",
+  "description": "An HTML Template for a minimal portfolio. Made with Bootstrap and modernizr.js for great compatibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^4.21.2",
+    "livereload": "^0.9.3"
+  }
+}
